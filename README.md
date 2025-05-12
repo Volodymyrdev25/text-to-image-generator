@@ -1,5 +1,5 @@
 
-# 🖼️ FLUX-Based Text-to-Image Generator App
+Text-to-Image Generator App
 
 This is a **Gradio-powered image generation app** built using the `FluxPipeline` from Hugging Face's `diffusers` library. It leverages LoRA fine-tuned weights to produce high-quality 1024x1024 profile portraits from text prompts.
 
@@ -51,7 +51,7 @@ This is a **Gradio-powered image generation app** built using the `FluxPipeline`
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shemayon/FLUX-Based-Text-to-Image-Generator-App
+git clone https://github.com/Volodymyrdev25/text-to-image-generator
 cd FLUX-Based-Text-to-Image-Generator-App
 ```
 
@@ -104,9 +104,3 @@ outputs/run7_002_female_25.png
 - [`black-forest-labs/FLUX.1-dev`](https://huggingface.co/black-forest-labs/FLUX.1-dev)
 - [`kudzueye/boreal-flux-dev-v2`](https://huggingface.co/kudzueye/boreal-flux-dev-v2)
 - Built with ❤️ using [Gradio](https://www.gradio.app/)
-
----
-
-## 📬 Feedback
-
-Pull requests, issues, and suggestions are welcome!
